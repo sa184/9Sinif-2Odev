@@ -33,7 +33,7 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 3. [Bu Videoyu](https://www.youtube.com/watch?v=EbVeoJBjHTw) izleyin. Hangi öğrenci tipine benziyorsun? (Sizin yönünüze göre)
 **Cevap**: (Soldaki), (Ortadaki), (Sağdaki) soldaki
 4. Deneydeki verileri elle defterinize çizin. Eğimi kaç buldunuz (Not: Eğim bulunurken asla doğru üzerinde **işaretlediğimiz noktalar**  alınmaz. Yani doğru üzerinde seçeceğimiz iki nokta, deneyde elde ettiğimiz noktalar olmaması lazım. Yoksa çizdiğimiz doğrunun bir anlamı olmaz.) Videodaki değere yakın mı?
-**Cevap**:
+**Cevap**:ben -750N/m buldum . vidyodaki değer -640 N/m
 5. Şimdi [bu adresteki] (https://www.rit.edu/cos/livephoto/LPVideos/projectiles/) sayfanın *en altındaki* videoya (tartılı video) gidin. Bu videoyu seyrederek 4-5 değer alınız. Aşağıdaki tabloya bu değerleri işleyiniz:
 
 |Kuvvet (N) | Uzanım (m)|
@@ -44,5 +44,6 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 |  9.95     | 0,04      |
 |           |           |
 
-6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](https://docs.google.com/spreadsheets/d/1nDfmzy4HrlUvTck89NXYmrLWOYQf0PSuwE4_lGIc-JA/edit?usp=sharing   ). 
-
+6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. [buraya bağlantı ver](https://docs.google.com/spreadsheets/d/1nDfmzy4HrslUvTck89NXYmrLWOYQf0PSuwE4_lGIc-JA/edit?usp=sharing   ).ben y=1,79x buldum. 
+samet perçin 
+9/A 45
